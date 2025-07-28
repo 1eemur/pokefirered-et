@@ -17,9 +17,15 @@ When the translation is finished, binary patches will be released for the Englis
 # Progress
 | Files                                                                                                     | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
-| Handling the Estonian alphabet  | 0% |
-| Index translation work to be done and add in-depth progress sections for different tasks | 0%       |
+| Handling the Estonian alphabet (Functional, but missing custom "Õ/õ" sprites) | 50% |
+| Game Intro | 75% |
+| Game Menus | 0% |
+| Index translation work to be done and add in-depth progress sections for different tasks | 10%       |
 | Graphics (non-character-based text, e.g. the title screen)                                   | 0% |
+| Pokedex Entries | 0% |
+| Trainer Names | 0% |
+| Text Data Folder | 2/27 |
+| Maps Data Folder | 0/431 |
 
 # Credits
 All contributors and translators will be added here.

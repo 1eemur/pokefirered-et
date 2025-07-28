@@ -1,243 +1,247 @@
 gOtherText_NewName::
-    .string "NEW NAME$"
+    .string "UUS NIMI$"
 
 gNameChoice_Green::
-    .string "GREEN$"
+    .string "KALEV$"
 
 gNameChoice_Red::
-    .string "RED$"
+    .string "TAAVI$"
 
 gNameChoice_Leaf::
-    .string "LEAF$"
+    .string "ARGO$"
 
 gNameChoice_Fire::
-    .string "FIRE$"
+    .string "TIIT$"
 
 gNameChoice_Gary::
-    .string "GARY$"
+    .string "SIIM$"
 
 gNameChoice_Kaz::
-    .string "KAZ$"
+    .string "ANDRES$"
 
 gNameChoice_Toru::
-    .string "TORU$"
+    .string "TÕNU$"
 
 gNameChoice_Ash::
-    .string "ASH$"
+    .string "AADU$"
 
 gNameChoice_Kene::
-    .string "KENE$"
+    .string "JAAN$"
 
 gNameChoice_Geki::
-    .string "GEKI$"
+    .string "TOOMAS$"
 
 gNameChoice_Jak::
-    .string "JAK$"
+    .string "JAAK$"
 
 gNameChoice_Janne::
-    .string "JANNE$"
+    .string "TARMO$"
 
 gNameChoice_Jonn::
-    .string "JONN$"
+    .string "TIMO$"
 
 gNameChoice_Kamon::
-    .string "KAMON$"
+    .string "OSKAR$"
 
 gNameChoice_Karl::
-    .string "KARL$"
+    .string "MIHKEL$"
 
 gNameChoice_Taylor::
-    .string "TAYLOR$"
+    .string "JÜRI$"
 
 gNameChoice_Oscar::
-    .string "OSCAR$"
+    .string "ARTUR$"
 
 gNameChoice_Hiro::
-    .string "HIRO$"
+    .string "ANTON$"
 
 gNameChoice_Max::
-    .string "MAX$"
+    .string "ARVO$"
 
 gNameChoice_Jon::
-    .string "JON$"
+    .string "VAHUR$"
 
 gNameChoice_Ralph::
-    .string "RALPH$"
+    .string "AHTI$"
 
 gNameChoice_Kay::
-    .string "KAY$"
+    .string "MARKO$"
 
 gNameChoice_Tosh::
-    .string "TOSH$"
+    .string "PEETER$"
 
 gNameChoice_Roak::
-    .string "ROAK$"
+    .string "VIKTOR$"
 
 gNameChoice_Omi::
-    .string "OMI$"
+    .string "MARI$"
 
 gNameChoice_Jodi::
-    .string "JODI$"
+    .string "HUDA$"
 
 gNameChoice_Amanda::
-    .string "AMANDA$"
+    .string "MARIKA$"
 
 gNameChoice_Hillary::
-    .string "HILLARY$"
+    .string "AIRE$"
 
 gNameChoice_Makey::
-    .string "MAKEY$"
+    .string "EVA$"
 
 gNameChoice_Michi::
-    .string "MICHI$"
+    .string "ELLI$"
 
 gNameChoice_Paula::
-    .string "PAULA$"
+    .string "GERLI$"
 
 gNameChoice_June::
-    .string "JUNE$"
+    .string "GERTU$"
 
 gNameChoice_Cassie::
-    .string "CASSIE$"
+    .string "HALVI$"
 
 gNameChoice_Rey::
-    .string "REY$"
+    .string "LIISU$"
 
 gNameChoice_Seda::
-    .string "SEDA$"
+    .string "HELENE$"
 
 gNameChoice_Kiko::
-    .string "KIKO$"
+    .string "KIRKE$"
 
 gNameChoice_Mina::
-    .string "MINA$"
+    .string "MIINA$"
 
 gNameChoice_Norie::
-    .string "NORIE$"
+    .string "NORA$"
 
 gNameChoice_Sai::
-    .string "SAI$"
+    .string "SIRJE$"
 
 gNameChoice_Momo::
-    .string "MOMO$"
+    .string "MARLEEN$"
 
 gNameChoice_Suzi::
-    .string "SUZI$"
+    .string "KERSTI$"
 
 gControlsGuide_Text_Intro::
-    .string "The various buttons will be explained in\n"
-    .string "the order of their importance.$"
+    .string "Erinevaid nuppe selgitatakse nende\n"
+    .string "tähtsuse järjekorras.$"
 
 gControlsGuide_Text_DPad::
-    .string "Moves the main character.\n"
-    .string "Also used to choose various data\n"
-    .string "headings.$"
+    .string "Liigutab peategelast.\n"
+    .string "Kasutatakse ka erinevate\n"
+    .string "andmevalikute valimiseks.$"
 
 gControlsGuide_Text_AButton::
-    .string "Used to confirm a choice, check\n"
-    .string "things, chat, and scroll text.$"
+    .string "Kasutatakse valiku kinnitamiseks,\n"
+    .string "asjade kontrollimiseks, vestlemiseks\n"
+    .string "ja teksti kerimiseks.$"
 
 gControlsGuide_Text_BButton::
-    .string "Used to exit, cancel a choice,\n"
-    .string "and cancel a mode.$"
+    .string "Kasutatakse väljumiseks, valiku\n"
+    .string "tühistamiseks ja reziimi\n"
+    .string "tühistamiseks.$"
 
 gControlsGuide_Text_StartButton::
-    .string "Press this button to open the\n"
-    .string "MENU.$"
+    .string "Vajuta seda nuppu, et avada\n"
+    .string "MENÜÜD.$"
 
 gControlsGuide_Text_SelectButton::
-    .string "Used to shift items and to use\n"
-    .string "a registered item.$"
+    .string "Kasutatakse esemete liigutamiseks\n"
+    .string "ja registreeritud eseme\n"
+    .string "kasutamiseks.$"
 
 gControlsGuide_Text_LRButtons::
-    .string "If you need help playing the\n"
-    .string "game, or on how to do things,\n"
-    .string "press the L or R Button.$"
+    .string "Kui vajad abi mängu mängimiseks\n"
+    .string "või kuidas asju teha,\n"
+    .string "siis vajuta L või R nuppu.$"
 
 gOakSpeech_Text_AskPlayerGender::
-    .string "Now tell me. Are you a boy?\n"
-    .string "Or are you a girl?$"
+    .string "Nüüd ütle mulle. Kas sa oled poiss?\n"
+    .string "Või oled sa tüdruk?$"
 
 gPikachuIntro_Text_Page1::
-    .string "In the world which you are about to\n"
-    .string "enter, you will embark on a grand\n"
-    .string "adventure with you as the hero.\n"
+    .string "Maailmas, kuhu sa varsti minema\n"
+    .string "hakkad, ootab sind suur\n"
+    .string "seiklus, kus sina oled kangelane.\n"
     .string "\n"
-    .string "Speak to people and check things\n"
-    .string "wherever you go, be it towns, roads,\n"
-    .string "or caves. Gather information and\n"
-    .string "hints from every source.$"
+    .string "Räägi inimestega ja kontrolli asju\n"
+    .string "kõikjal, kuhu lähed - linnades,\n"
+    .string "teedel või koobastes. Kogu\n"
+    .string "informatsiooni ja vihjeid igast allikast.$"
 
 gPikachuIntro_Text_Page2::
-    .string "New paths will open to you by helping\n"
-    .string "people in need, overcoming challenges,\n"
-    .string "and solving mysteries.\n"
+    .string "Uued teed avanevad sulle, kui aitad\n"
+    .string "abivajajaid, ületad väljakutseid ja\n"
+    .string "lahendad müsteeriume.\n"
     .string "\n"
-    .string "At times, you will be challenged by\n"
-    .string "others and attacked by wild creatures.\n"
-    .string "Be brave and keep pushing on.$"
+    .string "Mõnikord kutsuvad sind lahingule\n"
+    .string "teised treenerid ja ründavad sind\n"
+    .string "metsikud olendid. Ole vaprak ja jätka edasi.$"
 
 gPikachuIntro_Text_Page3::
-    .string "Through your adventure, we hope\n"
-    .string "that you will interact with all sorts\n"
-    .string "of people and achieve personal growth.\n"
-    .string "That is our biggest objective.\n"
+    .string "Sinu seikluse käigus loodame, et\n"
+    .string "suhtled igasuguste inimestega ja\n"
+    .string "saavutad isiklikku kasvu.\n"
+    .string "See on meie suurim eesmärk.\n"
     .string "\n"
-    .string "Press the A Button, and let your\n"
-    .string "adventure begin!$"
+    .string "Vajuta A nuppu ja alusta\n"
+    .string "oma seiklust!$"
 
 gOakSpeech_Text_WelcomeToTheWorld::
-    .string "Hello, there!\n"
-    .string "Glad to meet you!\p"
-    .string "Welcome to the world of POKéMON!\p"
-    .string "My name is OAK.\p"
-    .string "People affectionately refer to me\n"
-    .string "as the POKéMON PROFESSOR.\p$"
+    .string "Tervist!\n"
+    .string "Meeldiv tutvuda!\p"
+    .string "Tere tulemast POKéMONide maailma!\p"
+    .string "Minu nimi on TAMM.\p"
+    .string "Inimesed kutsuvad mind\n"
+    .string "kiindunult POKéMON PROFESSORIKS.\p$"
 
 gOakSpeech_Text_ThisWorld::
-    .string "This world…$"
+    .string "Seda maailma…$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
-    .string "…is inhabited far and wide by\n"
-    .string "creatures called POKéMON.\p$"
+    .string "…asustavad laialdaselt olendid,\n"
+    .string "keda nimetatakse POKéMONiks.\p$"
 
 gOakSpeech_Text_IStudyPokemon::
-    .string "For some people, POKéMON are pets.\n"
-    .string "Others use them for battling.\p"
-    .string "As for myself…\p"
-    .string "I study POKéMON as a profession.\p$"
+    .string "Mõnede inimeste jaoks on POKéMONid\n"
+    .string "koduloomad. Teised kasutavad neid\n"
+    .string "võitlemiseks.\p"
+    .string "Aga mina…\p"
+    .string "uurin POKéMONe ametialaselt.\p$"    
 
 gOakSpeech_Text_TellMeALittleAboutYourself::
-    .string "But first, tell me a little about\n"
-    .string "yourself.\p$"
+    .string "Aga kõigepealt räägi mulle natuke\n"
+    .string "enda kohta.\p$"
 
 gOakSpeech_Text_YourNameWhatIsIt::
-    .string "Let's begin with your name.\n"
-    .string "What is it?\p$"
+    .string "Alustame su nimega.\n"
+    .string "Mis see on?\p$"
 
 gOakSpeech_Text_SoYourNameIsPlayer::
-    .string "Right…\n"
-    .string "So your name is {PLAYER}.$"
+    .string "Hea küll…\n"
+    .string "Niisiis su nimi on {PLAYER}.$"
 
 gOakSpeech_Text_WhatWasHisName::
-    .string "This is my grandson.\p"
-    .string "He's been your rival since you both\n"
-    .string "were babies.\p"
-    .string "…Erm, what was his name now?$"
+    .string "See on minu pojapoeg.\p"
+    .string "Ta on olnud su rivaal sellest ajast,\n"
+    .string "kui te mõlemad olite veel beebid.\p"
+    .string "…Hmm, mis oli tema nimi?$"
 
 gOakSpeech_Text_YourRivalsNameWhatWasIt::
-    .string "Your rival's name, what was it now?$"
+    .string "Su rivaali nimi, mis see oli?$"
 
 gOakSpeech_Text_ConfirmRivalName::
-    .string "…Er, was it {RIVAL}?$"
+    .string "…Äh, kas see oli {RIVAL}?$"
 
 gOakSpeech_Text_RememberRivalsName::
-    .string "That's right! I remember now!\n"
-    .string "His name is {RIVAL}!\p$"
+    .string "Õige! Nüüd mäletan!\n"
+    .string "Tema nimi on {RIVAL}!\p$"
 
 gOakSpeech_Text_LetsGo::
     .string "{PLAYER}!\p"
-    .string "Your very own POKéMON legend is\n"
-    .string "about to unfold!\p"
-    .string "A world of dreams and adventures\n"
-    .string "with POKéMON awaits! Let's go!$"
+    .string "Sinu enda POKéMONi legend on\n"
+    .string "kohe algamas!\p"
+    .string "POKéMONiga seotud unistuste ja\n"
+    .string "seikluste maailm ootab sind! Lähme!$"

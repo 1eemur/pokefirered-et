@@ -1,47 +1,46 @@
 Text_ObtainedTheX::
-	.string "Obtained the {STR_VAR_2}!$"
+	.string "Said {STR_VAR_2} kätte!$"
 
 Text_BagIsFull::
-	.string "The BAG is full…$"
+	.string "KOTT on täis…$"
 
 Text_PutItemAway::
-	.string "{PLAYER} put the {STR_VAR_2}\n"
-	.string "in the {STR_VAR_3}.$"
+	.string "{PLAYER} pani {STR_VAR_2}\n"
+	.string "{STR_VAR_3}-sse.$"
 
 Text_FoundOneItem::
-	.string "{PLAYER} found one {STR_VAR_2}!$"
+	.string "{PLAYER} leidis ühe {STR_VAR_2}'i!$"
 
 Text_TooBadBagFull::
-	.string "Too bad!\n"
-	.string "The BAG is full…$"
+	.string "Kahju küll!\n"
+	.string "KOTT on täis…$"
 
 Text_FoundXCoins::
-	.string "{PLAYER} found\n"
+	.string "{PLAYER} leidis\n"
 	.string "{STR_VAR_1} {STR_VAR_2}!$"
 
 Text_PutCoinsAwayInCoinCase::
-	.string "{PLAYER} put the COINS away in\n"
-	.string "the COIN CASE.$"
+	.string "{PLAYER} pani MÜNDI MÜNDIKARPI\n"
 
 Text_CoinCaseIsFull::
-	.string "Too bad!\n"
-	.string "The COIN CASE is full…$"
+	.string "Kahju küll!\n"
+	.string "MÜNDIKARP on täis…$"
 
 Text_NothingToPutThemIn::
-	.string "Too bad!\n"
-	.string "There's nothing to put them in…$"
+	.string "Kahju küll!\n"
+	.string "Ei saa neid kuhugi panna…$"
 
 Text_FoundXItems::
-	.string "{PLAYER} found\n"
+	.string "{PLAYER} leidis\n"
 	.string "{STR_VAR_1} {STR_VAR_2}(s)!$"
 
 Text_ObtainedTheDecor::
-	.string "Obtained the {STR_VAR_2}!$"
+	.string "Said {STR_VAR_2}'i kätte!$"
 
 Text_NoRoomForAnotherDecor::
-	.string "Too bad! There's no room left for\n"
-	.string "another {STR_VAR_2}…$"
+	.string "Kahju! Ruumi pole enam\n"
+	.string "teise {STR_VAR_2} jaoks…$"
 
 Text_DecorTransferredToPC::
-	.string "The {STR_VAR_2} was transferred\n"
-	.string "to the PC.$"
+	.string "{STR_VAR_2} viidi üle\n"
+	.string "ARVUTISSE.$"
