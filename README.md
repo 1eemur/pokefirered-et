@@ -1,6 +1,5 @@
-# Pokémon FireRed and LeafGreen
-
-This is a decompilation of English Pokémon FireRed and LeafGreen.
+# Pokémon FireRed and LeafGreen Estonian Translation
+This is an in-progress Estonian translation of Pokémon FireRed and LeafGreen, forked from [pret's disassembly](https://github.com/pret/pokefirered).
 
 It builds the following ROM images:
 
@@ -11,4 +10,16 @@ It builds the following ROM images:
 
 To set up the repository, see [INSTALL.md](INSTALL.md).
 
-For contacts and other pret projects, see [pret.github.io](https://pret.github.io/).
+When the translation is finished, binary patches will be released for the English-language ROMs.
+
+**You can help! See the [Progress](#Progress) section for what still needs to be done.**
+
+# Progress
+| Files                                                                                                     | Progress    |
+| --------------------------------------------------------------------------------------------------------- | ----------- |
+| Handling the Estonian alphabet  | 0% |
+| Index translation work to be done and add in-depth progress sections for different tasks | 0%       |
+| Graphics (non-character-based text, e.g. the title screen)                                   | 0% |
+
+# Credits
+All contributors and translators will be added here.
