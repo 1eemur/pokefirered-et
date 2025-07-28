@@ -1,17 +1,17 @@
 Text_BootedUpPC::
-	.string "{PLAYER} booted up the PC.$"
+	.string "{PLAYER} käivitas ARVUTI.$"
 
 Text_AccessWhichPC::
-	.string "Which PC should be accessed?$"
+	.string "Millist ARVUTIT kasutad?$"
 
 Text_AccessedSomeonesPC::
-	.string "Accessed Someone's PC.$"
+	.string "Avas kellegi ARVUTI.$"
 
 Text_OpenedPkmnStorage::
-	.string "POKéMON Storage System opened.$"
+	.string "POKéMONi hoidmissüsteem avati.$"
 
 Text_AccessedPlayersPC::
-	.string "Accessed {PLAYER}'s PC.$"
+	.string "Avas {PLAYER}'i ARVUTIT.$"
 
 Text_AccessedBillsPC::
-	.string "Accessed BILL's PC.$"
+	.string "AVAS BILL'i ARVUTIT.$"

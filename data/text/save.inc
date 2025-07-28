@@ -1,16 +1,16 @@
 gText_WouldYouLikeToSaveTheGame::
-	.string "Would you like to save the game?$"
+	.string "Kas sooviksite mängu salvestada?$"
 
 gText_AlreadySaveFile_WouldLikeToOverwrite::
-	.string "There is already a saved file.\n"
-	.string "Is it okay to overwrite it?$"
+	.string "Salvestusfail on juba olemas.\n"
+	.string "Kas seda võib üle kirjutada?$"
 
 gText_SavingDontTurnOffThePower::
-	.string "SAVING…\n"
-	.string "DON'T TURN OFF THE POWER.$"
+	.string "SALVESTAMINE…\n"
+	.string "ÄRGE LÜLITAGE TOITET VÄLJA.$"
 
 gText_PlayerSavedTheGame::
-	.string "{PLAYER} saved the game.$"
+	.string "{PLAYER} salvestas mängu.$"
 
 gText_SaveFailed2::
 	.string "セーブに　しっぱい　しました‥$"

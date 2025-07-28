@@ -14,6 +14,9 @@ When the translation is finished, binary patches will be released for the Englis
 
 **You can help! See the [Progress](#Progress) section for what still needs to be done.**
 
+# Translation
+Given the scale of the project and the fact that I'm currently doing the work alone, my focus is getting translations in place and then revising and improving the translations' quality.
+
 # Progress
 | Files                                                                                                     | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
@@ -23,8 +26,7 @@ When the translation is finished, binary patches will be released for the Englis
 | Index translation work to be done and add in-depth progress sections for different tasks | 10%       |
 | Graphics (non-character-based text, e.g. the title screen)                                   | 0% |
 | Pokedex Entries | 0% |
-| Trainer Names | 0% |
-| Text Data Folder | 2/27 |
+| Text Data Folder | 9/27 |
 | Maps Data Folder | 0/431 |
 
 # Credits
