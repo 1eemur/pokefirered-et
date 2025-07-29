@@ -3,26 +3,26 @@ Text_OnlySkilledTrainersAllowedThrough::
 	.string "allowed through.\p"
 	.string "You don't have the {STR_VAR_1}\n"
 	.string "yet!$"
+	.string "Ainult tõeliselt osavad TREENRID\n"
+	.string "saavad siit läbi. Teil ei ole veel\n"
+	.string "{STR_VAR_1}!$"
 
 Text_CantLetYouPass::
-	.string "Rules are rules.\n"
-	.string "I can't let you pass.$"
+ 	.string "Reeglid on reeglid.\n"
+	.string "Ma ei saa teid läbi lasta.$"
 
 Text_OhThatsBadgeGoRightAhead::
-	.string "Oh! That is the {STR_VAR_1}!\n"
-	.string "Go right ahead.$"
+	.string "Nonii! See on {STR_VAR_1}!\n"
+	.string "Minge otse edasi.$"
 
 Text_OnlyPassWithBadgeDontHaveYet::
-	.string "You can pass here only if you have\n"
-	.string "the {STR_VAR_1}.\p"
-	.string "You don't have the {STR_VAR_1}\n"
-	.string "yet.\p"
-	.string "You have to have it to get to\n"
-	.string "the POKéMON LEAGUE.$"
+	.string "Te saate siit läbi minna ainult siis,\n"
+	.string "kui teil on {STR_VAR_1}. Te ei ole {STR_VAR_1}\n"
+	.string "veel saanud. Teil on seda vaja, et jõuda\n"
+	.string "POKéMONi LIIGAsse.$"
 
 Text_OnlyPassWithBadgeOhGoAhead::
-	.string "You can pass here only if you have\n"
-	.string "the {STR_VAR_1}.\p"
-	.string "Oh! That is the {STR_VAR_1}!{PAUSE_MUSIC}{PLAY_BGM}{MUS_LEVEL_UP}{PAUSE 0x60}{RESUME_MUSIC}\p"
-	.string "Okay, then.\n"
-	.string "Please, go right ahead.$"
+	.string "Te saate siit läbi minna ainult siis,\n"
+	.string "kui teil on {STR_VAR_1} olemas.\n"
+	.string "See on {STR_VAR_1}!{PAUSE_MUSIC}{PLAY_BGM}{MUS_LEVEL_UP}{PAUSE 0x60}{RESUME_MUSIC} Noh siis...\n"
+	.string "Palun, minge otse edasi.$"
