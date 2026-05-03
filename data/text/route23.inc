@@ -26,3 +26,4 @@ Text_OnlyPassWithBadgeOhGoAhead::
 	.string "kui teil on {STR_VAR_1} olemas.\n"
 	.string "See on {STR_VAR_1}!{PAUSE_MUSIC}{PLAY_BGM}{MUS_LEVEL_UP}{PAUSE 0x60}{RESUME_MUSIC} Noh siis...\n"
 	.string "Palun, minge otse edasi.$"
+
