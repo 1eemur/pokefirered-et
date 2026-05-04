@@ -1,11 +1,7 @@
 Text_OnlySkilledTrainersAllowedThrough::
-	.string "Only truly skilled TRAINERS are\n"
-	.string "allowed through.\p"
-	.string "You don't have the {STR_VAR_1}\n"
-	.string "yet!$"
 	.string "Ainult tõeliselt osavad TREENRID\n"
-	.string "saavad siit läbi. Teil ei ole veel\n"
-	.string "{STR_VAR_1}!$"
+	.string "saavad siit läbi.\p"
+	.string "Sul ei ole veel {STR_VAR_1}!$"
 
 Text_CantLetYouPass::
  	.string "Reeglid on reeglid.\n"
