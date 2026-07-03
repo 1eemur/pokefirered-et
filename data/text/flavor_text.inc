@@ -1,122 +1,122 @@
 @ Flavor text for interacting with various background objects
 
 Text_Bookshelf::
-	.string "It's crammed full of POKéMON\n"
-	.string "books.$"
+.string "See on täis POKéMONi\n"
+.string "raamatuid.$"
 
 Text_NothingButPokemonBooks::
-	.string "ほんだなに　ならんでいるのは\n"
-	.string "ポケモンの　ほん　ばかりだ$"
+.string "Riiulisse on ritta seatud\n"
+.string "ainult POKéMONi raamatud.$"
 
 Text_ATownMap::
-	.string "A TOWN MAP.$"
+.string "LINNA KAART.$"
 
 Text_PokeMartShelf::
-	.string "Wow!\n"
-	.string "Tons of POKéMON stuff!$"
+.string "Vau!\n"
+.string "Nii palju POKéMONi kraami!$"
 
 Text_DishesPlatesNeatlyLinedUp::
-	.string "Dishes and plates are neatly\n"
-	.string "lined up.$"
+.string "Nõud ja taldrikud on kenasti\n"
+.string "ritta seatud.$"
 
 Text_Kitchen::
-	.string "It smells delicious!\n"
-	.string "Somebody's been cooking here.$"
+.string "Siin lõhnab maitsvalt!\n"
+.string "Keegi on siin kokanud.$"
 
 Text_Dresser::
-	.string "It's a nicely made dresser.\n"
-	.string "It will hold a lot of stuff.$"
+.string "See on kenasti tehtud kummut.\n"
+.string "Sellesse mahub palju asju.$"
 
 Text_Snacks::
-	.string "There's a pile of snacks here.$"
+.string "Siin on hunnik suupisteid.$"
 
 Text_PokemartSign::
-	.string "All your item needs fulfilled!\n"
-	.string "POKéMON MART$"
+.string "Kõik vajalikud esemed ühest kohast!\n"
+.string "POKéMON MART$"
 
 Text_PokecenterSign::
-	.string "Heal Your POKéMON!\n"
-	.string "POKéMON CENTER$"
+.string "Tee oma POKéMON terveks!\n"
+.string "POKéMON CENTER$"
 
 Text_Indigo_UltimateGoal::
-	.string "INDIGO PLATEAU\p"
-	.string "The ultimate goal of TRAINERS!\n"
-	.string "POKéMON LEAGUE HQ$"
+.string "INDIGO PLATEAU\p"
+.string "TREENERITE ülim eesmärk!\n"
+.string "POKéMON LIIGA PEAKORTER$"
 
 Text_Indigo_HighestAuthority::
-	.string "INDIGO PLATEAU\p"
-	.string "The highest POKéMON authority!\n"
-	.string "POKéMON LEAGUE HQ$"
+.string "INDIGO PLATEAU\p"
+.string "Kõrgeim POKéMONi võimukandja!\n"
+.string "POKéMON LIIGA PEAKORTER$"
 
 Text_Food::
-	.string "It should be packed with all kinds\n"
-	.string "of delicious things to eat.$"
+.string "See peaks olema täis igasugu\n"
+.string "maitsvaid söögikraame.$"
 
 Text_Blueprints::
-	.string "It's a blueprint of some sort.\n"
-	.string "It's filled with diagrams and text.$"
+.string "See on mingit sorti joonis.\n"
+.string "See on täis skeeme ja teksti.$"
 
 Text_Painting::
-	.string "It's a pretty picture of a POKéMON.\n"
-	.string "It looks like it's feeling good.$"
+.string "See on ilus pilt ühest POKéMONist.\n"
+.string "Tundub, et ta tunneb end hästi.$"
 
 Text_PowerPlantMachine::
-	.string "What could this machine be?\n"
-	.string "Better not mess around with it!$"
+.string "Mis masin see küll olla võiks?\n"
+.string "Parem mitte sellega jaurata!$"
 
 Text_Telephone::
-	.string "It's a telephone.\n"
-	.string "Better not use it.$"
+.string "See on telefon.\n"
+.string "Parem mitte seda kasutada.$"
 
 Text_Computer::
-	.string "It's all complicated words and\n"
-	.string "numbers that make no sense…$"
+.string "See on täis keerulisi sõnu ja\n"
+.string "numbreid, millel ei oma mingit mõtet…$"
 
 Text_AdvertisingPoster::
-	.string "It's an advertising poster about\n"
-	.string "all kinds of products.$"
+.string "See on igasuguste toodete\n"
+.string "reklaamplakat.$"
 
 Text_TastyFood::
-	.string "Oh, that smells tasty!\n"
-	.string "It might get the stomach growling!$"
+.string "Ooh, see lõhnab maitsvalt!\n"
+.string "See võib kõhu korisema panna!$"
 
 Text_TrashBin::
-	.string "Inside this…\n"
-	.string "……\p"
-	.string "There's nothing here!$"
+.string "Selle sees…\n"
+.string "……\p"
+.string "Siin pole mitte midagi!$"
 
 Text_Cup::
-	.string "It's a cup with a POKéMON mark\n"
-	.string "on it.$"
+.string "See on tass, millel on POKéMONi\n"
+.string "märk.$"
 
 Text_PolishedWindow::
-	.string "The window is very well polished.$"
+.string "Aken on väga hästi puhtaks pestud.$"
 
 Text_BeautifulSkyWindow::
-	.string "Outside the window…\p"
-	.string "The sky looks fantastically\n"
-	.string "beautiful.$"
+.string "Akna taga…\p"
+.string "Taevas näeb välja muinasjutuliselt\n"
+.string "ilus.$"
 
 Text_BlinkingLights::
-	.string "Lights in different colors are\n"
-	.string "flashing on and off.$"
+.string "Erivärvilised tuled vilguvad\n"
+.string "sisse ja välja.$"
 
 Text_NeatlyLinedUpTools::
-	.string "All sorts of tools are lined up\n"
-	.string "neatly.$"
+.string "Igasugused tööriistad on kenasti\n"
+.string "ritta seatud.$"
 
 Text_ImpressiveMachine::
-	.string "It's a machine of some sort.\n"
-	.string "It sure is impressive.$"
+.string "See on mingit sorti masin.\n"
+.string "See on tõeliselt muljetavaldav.$"
 
 Text_VideoGame::
-	.string "It's the latest video game!\n"
-	.string "It sure looks fun!$"
+.string "See on uusim videomäng!\n"
+.string "See näeb kindlasti lõbus välja!$"
 
 Text_Burglary::
-	.string "There are obvious signs of burglary\n"
-	.string "here…$"
+.string "Siin on ilmselged sissemurdmise\n"
+.string "jäljed…$"
 
 Text_PlayerFacingTVScreen::
-	.string "There's a POKéMON on TV!\n"
-	.string "It looks like it's having fun.$"
+.string "Teleris on POKéMON!\n"
+.string "Tundub, et tal on lõbus.$"
